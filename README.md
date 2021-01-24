@@ -25,7 +25,9 @@ The code is in no way optimised, but just a quick way to get it done as a presen
 
 ![](img/isp_header_10_pin.png)
 
-// TODO  (INSERT IMAGEs HERE of USBASP and Connections)
+![Use an USBASP](img/usbasp.jpg)
+Use an USBASP
+
 Connect it the following way:
 
 * MOSI to MOSI ATTiny pin 5
@@ -34,4 +36,6 @@ Connect it the following way:
 * Reset to RESET ATTiny pin 1
 * VCC to VCC ATTiny pin 8
 * GND to GND ATTiny pin 4
+
+![Attiny Pinout](img/attiny_pinout.png)
 
