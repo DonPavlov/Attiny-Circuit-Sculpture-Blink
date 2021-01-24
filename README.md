@@ -23,6 +23,8 @@ The code is in no way optimised, but just a quick way to get it done as a presen
 
 ## Programming with a USBASP
 
+![](img/isp_header_10_pin.png)
+
 // TODO  (INSERT IMAGEs HERE of USBASP and Connections)
 Connect it the following way:
 
