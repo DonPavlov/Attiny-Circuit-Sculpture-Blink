@@ -2,8 +2,7 @@
 
 This repository contains the code to create a small and easy to use Circuit Sculpture Code.
 
-// TODO (INSERT GIF HERE)
-
+![](img/circuit-sculpture.gif)
 
 ## Functionality
 The Code just uses an Attiny45, with an Arduino Bootloader programmed into, via USBASP.

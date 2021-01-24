@@ -38,7 +38,7 @@ ISR(PCINT0_vect)
     button_pressed = true;
   }
 }
-€
+
 void loop()
 {
   while (button_pressed)
